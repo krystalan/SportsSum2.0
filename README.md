@@ -44,4 +44,4 @@ If you find this data is useful or use the data in your work, please cite our pa
 }
 ```
 
-Please contact Jiaan Wang (jawang1[at].suda.edu.cn) for questions and suggestions.
+Please contact Jiaan Wang (jawang1[at].stu.suda.edu.cn) for questions and suggestions.
