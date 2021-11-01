@@ -1,6 +1,6 @@
 # SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary
 
-SportsSum2.0 is a Chinese sports game summarization dataset which is based on [SportsSum](https://github.com/ej0cl6/SportsSum).
+SportsSum2.0 is a Chinese sports game summarization dataset which is based on [SportsSum](https://github.com/ej0cl6/SportsSum). (SportsSum2.0 is the cleaned version of SportsSum)
 
 Sports Game Summarization is a challenging task, which aims to generate sports summaries (i.e., news articles) from corresponding live commentaries.
  
