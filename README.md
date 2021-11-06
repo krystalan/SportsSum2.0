@@ -1,5 +1,5 @@
 # SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary
-Our new paper *Knowledge Enhanced Sports Game Summarization* has been accepted by WSDM 2022 as a long paper. In this paper, we provide K-SportsSum dataset which contains more data than SportsSum/SportsSum2.0. Besides, K-SportsSum also contains a large-scale knowledge corpus containing information of games as well as players. More details pls refer to [SGSum](https://github.com/krystalan/SGSum). 
+Our new paper *Knowledge Enhanced Sports Game Summarization* has been accepted by WSDM 2022 as a long paper. In this paper, we provide K-SportsSum dataset which contains more data than SportsSum/SportsSum2.0. Besides, K-SportsSum also contains a large-scale knowledge corpus containing information of games as well as players. More details pls refer to [K-SportsSum](https://github.com/krystalan/K-SportsSum). 
 
 ## Overview
 SportsSum2.0 is a Chinese sports game summarization dataset which is based on [SportsSum](https://github.com/ej0cl6/SportsSum). (SportsSum2.0 is the cleaned version of SportsSum)
