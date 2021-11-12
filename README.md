@@ -16,9 +16,6 @@ Each Game has four related files:
 - `live.json`: Live commentary document which contains commentary sentences, timeline information and real time scores.
 - `linesup.json`: Metadata file (contains rosters, starting lineups, player positions, etc.).
 
-## Acknowledge
-Jiaan Wang would like to thank Kuan-Hao Huang, the first author of SportsSum, for his positive response.  
-
 
 ## Citation and Contact
 If you find this data is useful or use the data in your work, please cite our paper and original SportsSum.
