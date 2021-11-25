@@ -2,10 +2,10 @@
 SportsSum2.0 is a Chinese sports game summarization dataset which is based on [SportsSum](https://github.com/ej0cl6/SportsSum). In short, SportsSum2.0 is the cleaned version of SportsSum. Sports Game Summarization is a challenging task, which aims to generate sports summaries (i.e., news articles) from corresponding live commentaries.
 
 For more details pls refer to the following papers:   
-[*SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary*](https://arxiv.org/abs/2110.05750) Jiaan Wang et al. In Proceedings of CIKM (short), 2021.   
-[*Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization*](https://aclanthology.org/2020.aacl-main.61/) Kuan-Hao Huang et al. In Proceedings of AACL (long), 2020.   
+- [*SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary*](https://arxiv.org/abs/2110.05750) Jiaan Wang et al. In Proceedings of CIKM (short), 2021.   
+- [*Generating Sports News from Live Commentary: A Chinese Dataset for Sports Game Summarization*](https://aclanthology.org/2020.aacl-main.61/) Kuan-Hao Huang et al. In Proceedings of AACL (long), 2020.   
 
-BTW, our new paper *Knowledge Enhanced Sports Game Summarization* (camera ready version is still being prepared) has been accepted by WSDM 2022 as a long paper. In this paper, we provide K-SportsSum dataset which contains more data (1.45 times) than SportsSum/SportsSum2.0. K-SportsSum also offers a large-scale knowledge corpus containing information of games as well as players. More details can be found at [K-SportsSum](https://github.com/krystalan/K-SportsSum) (Coming Soon). 
+BTW, our new paper [*Knowledge Enhanced Sports Game Summarization*](https://arxiv.org/abs/2111.12535) has been accepted by WSDM 2022 as a long paper. In this paper, we provide K-SportsSum dataset which contains more data (~1.45 times) than SportsSum/SportsSum2.0. K-SportsSum also offers a large-scale knowledge corpus containing information of games as well as players. More details can be found at [K-SportsSum](https://github.com/krystalan/K-SportsSum) (Coming Soon). 
 
 ## Download the Dataset
 You can download the data [here](https://drive.google.com/file/d/1NnXkMqBb1BUq7WMN06t8vZqh8NrD1XZ8/view?usp=sharing)    
